@@ -1,0 +1,8 @@
+2025-Apr-22-07:07:29 : ETL process started
+2025-Apr-22-07:07:34 : Data extraction completed
+2025-Apr-22-07:07:34 : Data transformation completed
+2025-Apr-22-07:07:34 : Data loaded into CSV
+2025-Apr-22-07:07:34 : Database connection established
+2025-Apr-22-07:07:34 : Data loaded into SQLite database
+2025-Apr-22-07:07:34 : Query executed
+2025-Apr-22-07:07:34 : Database connection closed. ETL process completed
